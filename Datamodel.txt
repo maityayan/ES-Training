@@ -1,1 +1,6 @@
 https://docs.splunk.com/Documentation/CIM/4.20.0/User/Howtousethesereferencetables
+
+
+https://docs.splunk.com/Documentation/Splunk/8.2.2/SearchReference/Tstats#Examples
+
+
