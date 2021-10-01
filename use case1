@@ -1,0 +1,3 @@
+| tstats count from datamodel=Network_Traffic by All_Traffic.src,All_Traffic.action,All_Traffic.dest 
+| rename All_Traffic.* as * 
+| search action="allowed" AND count>30
